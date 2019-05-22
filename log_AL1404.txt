@@ -1,0 +1,21 @@
+
+23:08:01 -- Receive -- Agent 147.26.231.153 -- Request to join.
+23:08:01 -- Respond -- Agent 147.26.231.153 -- Join granted.
+23:08:10 -- Receive -- Agent 127.0.0.1 -- Request to join.
+23:08:10 -- Respond -- Agent 127.0.0.1 -- Join granted.
+23:08:15 -- Receive -- Agent 147.26.231.156 -- Request to join.
+23:08:15 -- Respond -- Agent 147.26.231.156 -- Join granted.
+23:08:23 -- Receive -- Agent 147.26.231.153 -- Request to access agent list.
+23:08:23 -- Respond -- Agent 147.26.231.153 -- Agent list access granted.
+23:08:38 -- Receive -- Agent 147.26.231.153 -- Request to leave.
+23:08:38 -- Respond -- Agent 147.26.231.153 -- Leave granted.
+23:08:42 -- Receive -- Agent 147.26.231.153 -- Request to access agent list.
+23:08:42 -- Respond -- Agent 147.26.231.153 -- Not member. Agent list access denied.
+23:09:25 -- Receive -- Agent 127.0.0.1 -- Request to leave.
+23:09:25 -- Respond -- Agent 127.0.0.1 -- Leave granted.
+23:09:27 -- Receive -- Agent 127.0.0.1 -- Request to leave.
+23:09:27 -- Respond -- Agent 127.0.0.1 -- Not member. No change.
+23:09:40 -- Receive -- Agent 147.26.231.156 -- Request to access agent list.
+23:09:40 -- Respond -- Agent 147.26.231.156 -- Agent list access granted.
+23:09:44 -- Receive -- Agent 147.26.231.156 -- Request to access agent log.
+23:09:44 -- Respond -- Agent 147.26.231.156 -- Access to agent log granted.
